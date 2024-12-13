@@ -15,7 +15,7 @@ I'm a developer who creates software, bots, and various useful tools. My experti
 - 📊 Improving my knowledge of databases and server-side technologies.
 
 ## 📫 How to reach me:
-- 💬 You can reach out via GitHub Issues or email: [your_email@example.com](mailto:pureaholy@gmail.com).
+- 💬 You can reach out via GitHub Issues or email: [pureaholy@gmail.com](mailto:pureaholy@gmail.com).
 - 🐦 Contact me: [@PureAholy](https://t.me/PureAholy).
 
 ---
