@@ -1,4 +1,4 @@
-# Hi, I'm PureAholy 👋
+# Hi, I'm Zen Madesu 👋
 
 I'm a developer who creates software, bots, and various useful tools. My expertise covers multiple technologies and programming languages, and I'm always open to learning new things.
 
@@ -15,8 +15,8 @@ I'm a developer who creates software, bots, and various useful tools. My experti
 - 📊 Improving my knowledge of databases and server-side technologies.
 
 ## 📫 How to reach me:
-- 💬 You can reach out via GitHub Issues or email: [pureaholy@gmail.com](mailto:pureaholy@gmail.com).
-- 🐦 Contact me: [@PureAholy](https://t.me/PureAholy).
+- 💬 You can reach out via GitHub Issues or email: [iarthwear@gmail.com](mailto:iarthwear@gmail.com).
+- 🐦 Contact me: [@Prec1ze](https://t.me/prec1ze).
 
 ---
 
